@@ -1,0 +1,12 @@
+REPO_TAGLINE: Digital communication • Protocols • Errors correction
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: coding
+SITE_URL: https://academic-codex.github.io/SEL0619-Comunicacao-Digital
+
+BG_1: "#0A1220"
+BG_2: "#162A4A"
+TEXT_MAIN: "#E6EEFF"
+TEXT_MUTED: "#9FB3E0"
+ACCENT: "#818CF8"
+CARD_RADIUS: "16"
